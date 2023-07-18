@@ -1,6 +1,3 @@
-# CromaDash.github.io
-
-
 # Chromatography Dash Engine (CromaD-Engine)
 ```diff
 CromaD é uma ferramenta de tomada de decisão ...
